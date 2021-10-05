@@ -1,6 +1,6 @@
 # Pickle Rick
 
-# 25 Eylul 2021
+# 25 September 2021
 
 # Nmap 
 
