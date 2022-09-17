@@ -11,9 +11,9 @@ nmap -sV -A -T5 <MACHINE_IP>
 We got 22 and 80 ports open. Lets move to the web page.
 In the source code of the page, we have a username
 
+' Gobuster '
 ![image](https://user-images.githubusercontent.com/82729808/190850795-4be5e958-7fc4-47b2-a422-5b8a9be379c6.png)
 
-' Gobuster '
 
  
  Lets look at /robots.txt
