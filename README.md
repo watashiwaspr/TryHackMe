@@ -17,6 +17,7 @@ In the source code of the page, we have a username
 
  
  Lets look at /robots.txt
+ 
 ![image](https://user-images.githubusercontent.com/82729808/190850810-33210e0d-edf9-4579-9d35-e00ae0e92a98.png)
 
 We have this text. And when we look at the login page we understand that its a password
