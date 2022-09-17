@@ -36,8 +36,6 @@ And we have a command panel. Lets list the files.
  
  ![image](https://user-images.githubusercontent.com/82729808/190850898-a30fb1c1-9b1f-4200-b1ce-53363604c6ae.png)
  
- ![image](https://user-images.githubusercontent.com/82729808/190850911-f0774c25-2fb8-4c05-9a72-27232af40b55.png)
-
 So we have to be creative
 
 ![image](https://user-images.githubusercontent.com/82729808/190850911-f0774c25-2fb8-4c05-9a72-27232af40b55.png)
