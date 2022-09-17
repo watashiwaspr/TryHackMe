@@ -21,22 +21,27 @@ In the source code of the page, we have a username
 ![image](https://user-images.githubusercontent.com/82729808/190850810-33210e0d-edf9-4579-9d35-e00ae0e92a98.png)
 
 We have this text. And when we look at the login page we understand that its a password
+
 ![image](https://user-images.githubusercontent.com/82729808/190850862-700f1c30-6e25-4267-8e02-8c82f4fda116.png)
 
 ![image](https://user-images.githubusercontent.com/82729808/190850872-87a9b97d-ff3a-4eb2-9e18-87bfe3062ff9.png)
+
 And we have a command panel. Lets list the files.
+
 ![image](https://user-images.githubusercontent.com/82729808/190850884-b388ab7b-e11e-4cea-9f46-ccdc599868e0.png)
  
  When we try to read the files, this happens
+ 
  ![image](https://user-images.githubusercontent.com/82729808/190850898-a30fb1c1-9b1f-4200-b1ce-53363604c6ae.png)
  
  ![image](https://user-images.githubusercontent.com/82729808/190850911-f0774c25-2fb8-4c05-9a72-27232af40b55.png)
 
 So we have to be creative
-![image](https://user-images.githubusercontent.com/82729808/190850954-fa083d29-5156-4667-bf4b-ae61a1185666.png)
+
+![image](https://user-images.githubusercontent.com/82729808/190850911-f0774c25-2fb8-4c05-9a72-27232af40b55.png)
 
 When we use grep and look at the source code, we can see de blacklisted commands
-![image](https://user-images.githubusercontent.com/82729808/190850978-1fc8bd7f-8fbf-4584-8ee5-bb764c5aee5f.png)
+![image](https://user-images.githubusercontent.com/82729808/190850954-fa083d29-5156-4667-bf4b-ae61a1185666.png)
 
 We can use grep again to read the files.
 
