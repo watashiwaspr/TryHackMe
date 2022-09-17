@@ -10,6 +10,8 @@ nmap -sV -A -T5 <MACHINE_IP>
 
 We got 22 and 80 ports open. Lets move to the web page.
 In the source code of the page, we have a username
+![image](https://user-images.githubusercontent.com/82729808/190852082-ca41dbe4-7ed2-4bff-ba47-93fd0e9ad1f1.png)
+
 
 ' Gobuster '
 ![image](https://user-images.githubusercontent.com/82729808/190850795-4be5e958-7fc4-47b2-a422-5b8a9be379c6.png)
