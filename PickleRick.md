@@ -16,8 +16,7 @@ In the source code of the page, we have a username
 
 ' Gobuster '
 
-with the command : gobuster dir -u http://MACHINE_IP/ -w /usr/share/wordlists/rockyou.txt -x html,php,txt
-we can find the hidden directories
+with the command : "gobuster dir -u http://MACHINE_IP/ -w /usr/share/wordlists/rockyou.txt -x html,php,txt" we can find the hidden directories
 
 ![image](https://user-images.githubusercontent.com/82729808/190850795-4be5e958-7fc4-47b2-a422-5b8a9be379c6.png)
 
