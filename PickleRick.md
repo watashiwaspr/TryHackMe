@@ -3,6 +3,7 @@
 # RECON
 
 'Nmap'
+
 nmap -sV -A -T5 <MACHINE_IP>
 -Open Ports-
 
